@@ -1,5 +1,7 @@
 # Hi👋, I'm Tobi👨‍💻
 
+![My Banner](./banner.jpg)
+
 
 
 
