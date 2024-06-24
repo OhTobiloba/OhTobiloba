@@ -1,3 +1,8 @@
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/OhTobiloba/count.svg" />
+</p>
+
 # Hi👋, I'm Tobi👨‍💻
 
 ![My Banner](./Github-banner.jpg)
