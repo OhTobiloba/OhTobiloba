@@ -1,6 +1,6 @@
 # Hi👋, I'm Tobi👨‍💻
 
-![My Banner](./My%20banner.jpg)
+![My Banner](./githubbanner.jpg)
 
 
 
