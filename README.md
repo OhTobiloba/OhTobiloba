@@ -1,3 +1,5 @@
+## Welcome to my Space!😎
+
 <p align="center"> 
    <strong> <i> Visitor count </i> 🤫 <strong>
   <br><br>
@@ -10,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <h3>Languages I Use</h3>
+      <h3>⚙️Tools & Languages I Use 🛠️</h3>
       <ul>
         <li>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -32,6 +34,12 @@
         </li>
         <li>
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+        </li>
+         <li>
+          <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+        </li>
+        <li>
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         </li>
       </ul>
     </td>
