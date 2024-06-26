@@ -1,4 +1,4 @@
-## WELCOME TO MY SPACE!...😎
+### WELCOME TO MY SPACE!...😎
 
 <p align="center"> 
    <strong> <i> Visitor count </i> 🤫 <strong>
@@ -19,6 +19,16 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <p> After a brief hiatus, I'm back and ready to take on new challenges, fueled by my unwavering dedication to delivering high-impact solutions. </p>
 <i> Check out my repositories to see what I'm working on, and feel free to connect with me! </i>
 <br><br>
+
+#### <bold>GET IN TOUCH: coffee:</bold>
+
+- Find My Live Projects [Here](https://sagarviradiya.dev)
+- Follow Me on [Twitter](https://x.com/_OhTee_)
+- I document and share things I learn on [Medium](https://medium.com/@sagarviradiya)
+- Common! Lets Connect on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/)
+  <br><br>
+
+
 
 #### <strong>⚙️TOOLS & LANGUAGES I USE🛠️</strong>
 <table>
@@ -52,19 +62,43 @@ If I’m not designing, developing or deploying any web app then I'm probably do
     </td>
   </tr>
 </table>
-<br><br>
+<br>
 
+#### <strong>PROJECTS:</strong>
 
-<div align="center">
+- 🌱 Contributed to i2talk chat app during TIIDELab fellowship. [See demo here](#)
+- 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. [See demo here](#)
+- 🌱 Resource edge task as a standardization test under Learnable '21. [See demo here](#)
+- 🌱 Decipher app, a choice maker app. [See demo here](#)
+- 🌱 A simple portfolio site with HTML and CSS. [See demo here](#)
+- 🌱 Bookmark landing page challenge from Frontend Mentor. [See demo here](#)
+- 🌱 HackerNews website replica fetching news data from their API. [See demo here](#)
+<br><br><br>
+
+<table align="center">
+   <tr>
+      <td>
+         <div align="center">
    <a href="https://github.com/OhTobiloba/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OhTobiloba&layout=donut" alt="Top Langs" />
       </a>
 </div>
-<br><br>
-
-<div align="center">
+      </td>
+      <td>
+         <div align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=OhTobiloba&show_icons=true&theme=radical" />
 </div>
+      </td>
+   </tr>
+</table>
+
+<br><br>
+
+
+
+
+
+
 
 <!--
 **OhTobiloba/OhTobiloba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
