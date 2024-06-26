@@ -20,6 +20,39 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <i> Check out my repositories to see what I'm working on, and feel free to connect with me! </i>
 <br><br>
 
+
+
+<table align="center">
+   <tr>
+      <td>
+         <h3>GET IN TOUCH:</h3>
+         <ul>
+            <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
+            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
+            <li>✍️ I document and share things I learn on <a href="https://medium.com/@sagarviradiya">Medium</a></li>
+            <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
+            <li>🎓 Check my CERTIFICATIONS <a href="#">Here</a></li>
+         </ul>
+      </td>
+      <td>
+         <h3>GET IN TOUCH:</h3>
+         <ul>
+            <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
+            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
+            <li>✍️ I document and share things I learn on <a href="https://medium.com/@sagarviradiya">Medium</a></li>
+            <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
+            <li>🎓 Check my CERTIFICATIONS <a href="#">Here</a></li>
+         </ul>
+      </td>
+   </tr>
+</table>
+
+
+
+
+
+
+
 #### <bold>GET IN TOUCH:</bold>
 
 - 🌐 Find My Live Projects [Here](https://sagarviradiya.dev)
