@@ -95,7 +95,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <br><br>
 
 
-
+![FooterBanner](./FooterBanner.png)
 
 
 
