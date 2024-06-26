@@ -20,14 +20,14 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <i> Check out my repositories to see what I'm working on, and feel free to connect with me! </i>
 <br><br>
 
-#### <bold>GET IN TOUCH: coffee:</bold>
+#### <bold>GET IN TOUCH:</bold>
 
-- Find My Live Projects [Here](https://sagarviradiya.dev)
-- Follow Me on [Twitter](https://x.com/_OhTee_)
-- I document and share things I learn on [Medium](https://medium.com/@sagarviradiya)
-- Common! Lets Connect on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/)
+- 🌐 Find My Live Projects [Here](https://sagarviradiya.dev)
+- ❌ Follow Me on [Twitter](https://x.com/_OhTee_)
+- ✍️ I document and share things I learn on [Medium](https://medium.com/@sagarviradiya)
+- 🔗 Common! Lets Connect on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/)
+- 🎓 Check my CERTIFICATIONS [Here](#)
   <br><br>
-
 
 
 #### <strong>⚙️TOOLS & LANGUAGES I USE🛠️</strong>
