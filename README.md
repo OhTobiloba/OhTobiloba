@@ -1,18 +1,22 @@
 ### WELCOME TO MY SPACE!...😎
+<hr>
 
 <p align="center"> 
    <strong> <i> Visitor count </i> 🤫 <strong>
   <br><br>
   <img src="https://profile-counter.glitch.me/OhTobiloba/count.svg" />
 </p>
+<hr>
 
 # Hi👋, I'm Tobi👨‍💻
 
 ![My Banner](./Github-banner.jpg)
 
 ## <p align="center"> A passionate Frontend Developer 👩‍💻 from Nigeria 🇳🇬 who is currently learning about Web3 </p>
+<hr>
 
 #### ABOUT ME 💡
+<hr>
 Being a Mechanical Engineering Finalist skilled in Mechanical CAD softwares (SolidWorks, Fusion360, AutoCAD), I'm a rapidly advancing front-end web developer with a passion for crafting exceptional user interfaces that drive results. With a strong foundation in HTML, CSS, and JavaScript, I'm honing my skills so as to be a master of my craft, always trying to stay ahead of the curve with the latest technologies and frameworks like TailwindCSS, ReactJS.
 <p> As a web3 enthusiast, I'm fascinated by the potential of blockchain technology to revolutionize the web and eager to contribute to the development of decentralized applications and protocols. With a deep commitment to using technology for social good, I aim to create innovative solutions that improve people's lives, foster inclusivity, and promote digital accessibility. </p>
 If I’m not designing, developing or deploying any web app then I'm probably doing some Mechanical CAD Designs. 
@@ -21,37 +25,8 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <br><br>
 
 
-
-<table>
-   <tr>
-
-   <td>
-         <h3>LEARNING JOURNEY</h3>
-         <ul>
-            <li>🌐 Fundamentals of web development (Solo Learn) <a href="https://sagarviradiya.dev">Here</a></li>
-            <li>❌ HTML5 (Solo Learn)<a href="https://x.com/_OhTee_">Twitter</a></li>
-            <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li>
-            <li>🔗 Front End Web Development [Terra (Side Hustle)]<a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-            <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="#">Here</a></li>
-            <li>🎓 I document somethings I learn <a href="#">Here</a></li>
-         </ul>
-      </td>
-
-   
-   <td>
-         <h3>GET IN TOUCH:</h3>
-         <ul>
-            <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
-            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
-            <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-         </ul>
-      </td>
-     
-   </tr>
-</table>
-<br><br>
-
 #### <strong>⚙️TOOLS & LANGUAGES I USE🛠️</strong>
+<hr>
 <table>
   <tr>
     <td>
@@ -101,12 +76,12 @@ If I’m not designing, developing or deploying any web app then I'm probably do
     </td>
   </tr>
 </table>
-<br>
-<br>
+<br><br>
 
-<br>
+<hr>
 
-#### <strong>PROJECTS:</strong>
+#### <strong>FEW PROJECTS:<strong>
+<hr>
 
 - 🌱 Contributed to i2talk chat app during TIIDELab fellowship. [See demo here](#)
 - 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. [See demo here](#)
@@ -115,7 +90,77 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 - 🌱 A simple portfolio site with HTML and CSS. [See demo here](#)
 - 🌱 Bookmark landing page challenge from Frontend Mentor. [See demo here](#)
 - 🌱 HackerNews website replica fetching news data from their API. [See demo here](#)
-<br><br><br>
+<br><br>
+
+<table align="">
+   <tr>
+
+   <td>
+         <h3>LEARNING JOURNEY & CERTIFICATIONS</h3>
+      <hr>
+         <ul>
+            <li>🌐 Fundamentals of web development (Solo Learn) <a href="https://sagarviradiya.dev">Here</a></li>
+            <li>❌ HTML5 (Solo Learn)<a href="https://x.com/_OhTee_">Twitter</a></li>
+            <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li>
+            <li>🔗 Front End Web Development [Terra (Side Hustle)]<a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
+            <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="#">Here</a></li>
+            <li>🎓 I document somethings I learn <a href="#">Here</a></li>
+         </ul>
+      </td>
+     
+   </tr>
+</table>
+<br><br>
+
+<!--<table>
+   <tr>
+      <td>
+         <h3>GET IN TOUCH:</h3>
+      <hr>
+         <ul>
+            <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
+            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
+            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Discord</a></li>
+            <li>🔗 Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
+            <li>🔗 Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">Facebook</a></li>
+            <li>🔗 Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">Instagram</a></li>
+            <li>🔗 Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">Codepen</a></li>
+         </ul>
+         
+   </td>
+   </tr>
+</table>
+<br><br>-->
+
+
+
+<table align="">
+   <tr>
+      <td>
+         <h3> <strong >📲 CONNECT WITH ME!🤝</strong></h3>
+         <hr>
+<p align="left">
+  <a href="https://x.com/_OhTee_" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  </a>
+  <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aboduntobi@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://discordapp.com/users/your-discord-id" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="https://codepen.io/your-codepen-id" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
+  </a>
+</p>
+   </td>
+   </tr>
+</table><br><br>
+
+
 
 <table align="center">
    <tr>
