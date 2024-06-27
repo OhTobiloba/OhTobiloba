@@ -22,7 +22,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 
 
 
-<table align="center">
+<table>
    <tr>
       <td>
          <h3>GET IN TOUCH:</h3>
@@ -31,10 +31,10 @@ If I’m not designing, developing or deploying any web app then I'm probably do
             <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
             <li>✍️ I document and share things I learn on <a href="https://medium.com/@sagarviradiya">Medium</a></li>
             <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-            <li>🎓 Check my CERTIFICATIONS <a href="#">Here</a></li>
+            <li>🎓 Check my CERTIFICATIONS <a href="https://#">Here</a></li>
          </ul>
       </td>
-      <td>
+     <!-- <td>
          <h3>GET IN TOUCH:</h3>
          <ul>
             <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
@@ -43,7 +43,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
             <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
             <li>🎓 Check my CERTIFICATIONS <a href="#">Here</a></li>
          </ul>
-      </td>
+      </td>-->
    </tr>
 </table>
 <br><br>
