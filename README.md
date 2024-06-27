@@ -67,52 +67,53 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <table>
   <tr>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
       </a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
       </a>
     </td>
     <td>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
       </a>
     </td>
     <td>
-      <a href="https://reactjs.org/">
+      <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
       </a>
     </td>
     <td>
-      <a href="https://tailwindcss.com/">
+      <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
       </a>
     </td>
     <td>
-      <a href="https://nodejs.org/">
+      <a href="https://nodejs.org/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
       </a>
     </td>
     <td>
-      <a href="https://www.mongodb.com/">
+      <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
       </a>
     </td>
     <td>
-      <a href="https://code.visualstudio.com/">
+      <a href="https://code.visualstudio.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
       </a>
     </td>
     <td>
-      <a href="https://git-scm.com/">
+      <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
       </a>
     </td>
   </tr>
 </table>
+<br>
 <br>
 
 <br>
