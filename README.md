@@ -24,26 +24,29 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 
 <table>
    <tr>
-      <td>
-         <h3>GET IN TOUCH:</h3>
+
+   <td>
+         <h3>LEARNING JOURNEY</h3>
          <ul>
-            <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
-            <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
-            <li>✍️ I document and share things I learn on <a href="https://medium.com/@sagarviradiya">Medium</a></li>
-            <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-            <li>🎓 Check my CERTIFICATIONS <a href="https://#">Here</a></li>
+            <li>🌐 Fundamentals of web development (Solo Learn) <a href="https://sagarviradiya.dev">Here</a></li>
+            <li>❌ HTML5 (Solo Learn)<a href="https://x.com/_OhTee_">Twitter</a></li>
+            <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li>
+            <li>🔗 Front End Web Development [Terra (Side Hustle)]<a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
+            <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="#">Here</a></li>
+            <li>🎓 I document somethings I learn <a href="#">Here</a></li>
          </ul>
       </td>
-     <!-- <td>
+
+   
+   <td>
          <h3>GET IN TOUCH:</h3>
          <ul>
             <li>🌐 Find My Live Projects <a href="https://sagarviradiya.dev">Here</a></li>
             <li>❌ Follow Me on <a href="https://x.com/_OhTee_">Twitter</a></li>
-            <li>✍️ I document and share things I learn on <a href="https://medium.com/@sagarviradiya">Medium</a></li>
             <li>🔗 Common! Lets Connect on <a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-            <li>🎓 Check my CERTIFICATIONS <a href="#">Here</a></li>
          </ul>
-      </td>-->
+      </td>
+     
    </tr>
 </table>
 <br><br>
