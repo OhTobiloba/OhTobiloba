@@ -21,7 +21,7 @@ Being a Mechanical Engineering Finalist skilled in Mechanical CAD softwares (Sol
 <p> As a web3 enthusiast, I'm fascinated by the potential of blockchain technology to revolutionize the web and eager to contribute to the development of decentralized applications and protocols. With a deep commitment to using technology for social good, I aim to create innovative solutions that improve people's lives, foster inclusivity, and promote digital accessibility. </p>
 If I’m not designing, developing or deploying any web app then I'm probably doing some Mechanical CAD Designs. 
 <p> After a brief hiatus, I'm back and ready to take on new challenges, fueled by my unwavering dedication to delivering high-impact solutions. </p>
-<i> Check out my repositories to see what I'm working on, and feel free to connect with me! </i>
+‼️ <i> Check out my repositories to see what I'm working on, and feel free to connect with me! </i>⬇️⬇️⬇️
 <br><br>
 
 
