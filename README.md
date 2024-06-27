@@ -46,22 +46,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
       </td>
    </tr>
 </table>
-
-
-
-
-
-
-
-#### <bold>GET IN TOUCH:</bold>
-
-- 🌐 Find My Live Projects [Here](https://sagarviradiya.dev)
-- ❌ Follow Me on [Twitter](https://x.com/_OhTee_)
-- ✍️ I document and share things I learn on [Medium](https://medium.com/@sagarviradiya)
-- 🔗 Common! Lets Connect on [LinkedIn](https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/)
-- 🎓 Check my CERTIFICATIONS [Here](#)
-  <br><br>
-
+<br><br>
 
 #### <strong>⚙️TOOLS & LANGUAGES I USE🛠️</strong>
 <table>
