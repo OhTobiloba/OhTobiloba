@@ -17,7 +17,7 @@
 
 #### ABOUT ME 💡
 <hr>
-Being a Mechanical Engineering Finalist skilled in Mechanical CAD softwares (SolidWorks, Fusion360, AutoCAD), I'm a rapidly advancing front-end web developer with a passion for crafting exceptional user interfaces that drive results. With a strong foundation in HTML, CSS, and JavaScript, I'm honing my skills so as to be a master of my craft, always trying to stay ahead of the curve with the latest technologies and frameworks like TailwindCSS, ReactJS.
+Being a Mechanical Engineering Finalist, skilled in Mechanical CAD softwares (SolidWorks, Fusion360, AutoCAD), I'm a rapidly advancing front-end web developer with a passion for crafting exceptional user interfaces that drive results. With a strong foundation in HTML, CSS, and JavaScript, I'm honing my skills to be a master of my craft, always trying to stay ahead of the curve with the latest technologies and frameworks like TailwindCSS, ReactJS.
 <p> As a web3 enthusiast, I'm fascinated by the potential of blockchain technology to revolutionize the web and eager to contribute to the development of decentralized applications and protocols. With a deep commitment to using technology for social good, I aim to create innovative solutions that improve people's lives, foster inclusivity, and promote digital accessibility. </p>
 If I’m not designing, developing or deploying any web app then I'm probably doing some Mechanical CAD Designs. 
 <p> After a brief hiatus, I'm back and ready to take on new challenges, fueled by my unwavering dedication to delivering high-impact solutions. </p>
