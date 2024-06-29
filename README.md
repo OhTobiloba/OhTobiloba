@@ -83,7 +83,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 #### <strong>FEW PROJECTS:<strong>
 <hr>
 
-- 🌱 View My Solutions to Frontend Mentor Coding Challenges. [See demo here](https://www.frontendmentor.io/profile/OhTobiloba)
+- 🌱 View My Solutions to Frontend Mentor Coding Challenges. [See demo here](https://www.frontendmentor.io/profile/OhTobiloba){:target="_blank"}
 - 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. [See demo here](#)
 - 🌱 Resource edge task as a standardization test under Learnable '21. [See demo here](#)
 - 🌱 Decipher app, a choice maker app. [See demo here](#)
