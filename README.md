@@ -84,12 +84,13 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <hr>
 
 - 🌱 View My Solutions to Frontend Mentor Coding Challenges. [See demo here](https://www.frontendmentor.io/profile/OhTobiloba)
-- 🌱 Contributed to ZC main and ZC company sales prospect during HNGi8. [See demo here](#)
+<!-- - 🌱 Contributed to  during HNGi8. [See demo here](#)
 - 🌱 Resource edge task as a standardization test under Learnable '21. [See demo here](#)
 - 🌱 Decipher app, a choice maker app. [See demo here](#)
 - 🌱 A simple portfolio site with HTML and CSS. [See demo here](#)
 - 🌱 Bookmark landing page challenge from Frontend Mentor. [See demo here](#)
 - 🌱 HackerNews website replica fetching news data from their API. [See demo here](#)
+- -->
 <br><br>
 
 <table align="">
