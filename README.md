@@ -100,12 +100,13 @@ If I’m not designing, developing or deploying any web app then I'm probably do
          <h3>LEARNING JOURNEY & CERTIFICATIONS</h3>
       <hr>
          <ul>
-            <li>🌐 Fundamentals of web development (Solo Learn) <a href="https://sagarviradiya.dev">Here</a></li>
+<!--             <li>🌐 Fundamentals of web development (Solo Learn) <a href="https://sagarviradiya.dev">Here</a></li> -->
+            <li>🌐 Jobberman Soft Skills Trainning <a href="https://drive.google.com/file/d/1yDdLItRF6-a4HRjq6FrpH3YRoVGwK6-t/view?usp=sharing">Here</a></li>
             <li>❌ HTML5 (Solo Learn)<a href="https://x.com/_OhTee_">Twitter</a></li>
-            <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li>
-            <li>🔗 Front End Web Development [Terra (Side Hustle)]<a href="https://www.linkedin.com/in/oluwatobiloba-abodunde-4312a322a/">LinkedIn</a></li>
-            <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="#">Here</a></li>
-            <li>🎓 I document somethings I learn <a href="#">Here</a></li>
+<!--             <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li> -->
+            <li>🔗 Front End Web Development [Terra (Side Hustle)]<a href="https://drive.google.com/file/d/1YOWs3lJQODNQNUfE9nhSYUzJEEGMsjAk/view?usp=sharing">LinkedIn</a></li>
+            <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="https://drive.google.com/file/d/1iHLhQVY3lLRJs-xFa8UH0myE9pXOm3eD/view?usp=sharing">Here</a></li>
+            <li>🎓 I write on things I learn <a href="https://medium.com/@aboduntobi">Here</a></li>
          </ul>
       </td>
      
