@@ -84,7 +84,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <hr>
 
 - 🌱 View My Solutions to Frontend Mentor Coding Challenges. [See demo here](https://www.frontendmentor.io/profile/OhTobiloba)
-- 🌱 Currently enrolled in HNG11 internship. [Project](https://ohtobiloba.github.io/HNG11-Projects/OhTeeDevGoals/index.html)
+- 🌱 Currently enrolled in HNG11 internship. [1st Project](https://ohtobiloba.github.io/HNG11-Projects/OhTeeDevGoals/index.html)
 <!-- 🌱 Resource edge task as a standardization test under Learnable '21. [See demo here](#)
 - 🌱 Decipher app, a choice maker app. [See demo here](#)
 - 🌱 A simple portfolio site with HTML and CSS. [See demo here](#)
@@ -106,7 +106,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
 <!--             <li>✍️ CSS3<a href="https://medium.com/@sagarviradiya">Medium</a></li> -->
             <li>🎓 Front End Web Development [Terra (Side Hustle)]<a href="https://drive.google.com/file/d/1YOWs3lJQODNQNUfE9nhSYUzJEEGMsjAk/view?usp=sharing">Here</a></li>
             <li>🎓 Full Stack Web Devlopment & web3 (Utiva-Binance Trainning)<a href="https://drive.google.com/file/d/1iHLhQVY3lLRJs-xFa8UH0myE9pXOm3eD/view?usp=sharing">Here</a></li>
-            <li>🎓 I write on things I learn <a href="https://medium.com/@aboduntobi">Here</a></li>
+            <li>🎓 I write about things I learn on MEDIUM <a href="https://medium.com/@aboduntobi">Here</a></li>
          </ul>
       </td>
      
