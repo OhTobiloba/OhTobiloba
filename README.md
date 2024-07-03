@@ -154,7 +154,7 @@ If I’m not designing, developing or deploying any web app then I'm probably do
   <a href="https://discordapp.com/users/your-discord-id" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="[https://codepen.io/your-codepen-id](https://codepen.io/ohtobiloba)" target="_blank" rel="noopener noreferrer">
+  <a href="https://codepen.io/ohtobiloba" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" />
   </a>
 </p>
